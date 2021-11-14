@@ -205,14 +205,12 @@ a.logo {
 }
 
 .guide {
-  margin-top: 90px;
   padding: 160px 0;
   background: url('../img/guide.jpg') no-repeat right center / 50%;
 }
 
 .guide-list {
   width: 407px;
-/*   margin: 150px 0; */
 }
 
 .guide-list__text {
